@@ -3,7 +3,7 @@ import pandas as pd
 from prettytable import PrettyTable
 import sys
 
-# Subdomain Enumeration Script by 0xNehru
+# Subdomain Scanner tool Script by 0xNehru
 # List of possible takeover patterns
 TAKEOVER_PATTERNS = {
     "s3.amazonaws.com", "github.io", "herokuapp.com", "pantheon.io", "unbouncepages.com",
