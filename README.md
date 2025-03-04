@@ -17,6 +17,8 @@ python3 dns_lookup_tool.py subdomains.txt
 
 pip install dnspython pandas prettytable openpyxl
 
+# Make sure your terminal zoomout little bit for output displaying.
+
 # Author
 
 # 👨‍💻 0xNehru
